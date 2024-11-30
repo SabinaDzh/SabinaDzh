@@ -4,7 +4,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/SDzha) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:SabinaIT@yandex.ru)
 
-- Я начинающий Python-developer ищу работу удаленно или в офисе.
+- Я начинающий Python-разработчик ищу работу удаленно или в офисе.
 - В 2020 году получила степень магистра по специальности "Информационные системы и технологии"
 - В 2024 году окончила обучение на Python-разработчика в Яндекс Практикуме
 - Продолжаю обучаться новым технологиям
